@@ -47,7 +47,7 @@ export const UI_TEXT = {
   API_KEY_ERROR: "Gemini API 키가 설정되지 않았습니다. 환경 변수 API_KEY를 설정해주세요.",
   GEMINI_GENERAL_ERROR: "정보를 가져오는 중 오류가 발생했습니다. 잠시 후 다시 시도해주세요.",
   REQUIRED_FIELDS_ERROR: "교란종 이름, 발견 날짜/시간, 발견 위치는 필수 항목입니다.",
-  REPORT_SUBMISSION_EMAIL_ADDRESS: "admin_email@example.com", 
+  REPORT_SUBMISSION_EMAIL_ADDRESS: "asdjj1@naver.com", 
   SUBMIT_REPORT_VIA_EMAIL_BUTTON: "신고 내용 이메일로 보내기",
   EMAIL_SUBMISSION_INSTRUCTION_TITLE: "이메일로 신고 완료하기",
   EMAIL_SUBMISSION_INSTRUCTION_BODY: "신고 내용이 준비되었습니다. 잠시 후 이메일 프로그램이 열리면 내용을 확인하고 '보내기'를 눌러주세요. 사진을 첨부하셨다면, 열린 이메일에 해당 사진 파일을 직접 첨부해주셔야 합니다.",
